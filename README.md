@@ -1,6 +1,7 @@
 ## Hi, I'm Illya! 👋
 
-I am a University of Waterloo alumni (BASc Computer Engineering '22) and currently working as a Software Developer at Autodesk. I have also formerly worked at AMD.
+I am a University of Waterloo alumni (BASc Computer Engineering '22) and currently working as a Software Developer at Autodesk.
+I have also formerly worked at AMD.
 
 Have an exciting opportunity, or want to chat? Feel free to contact me at: imyshakov@uwaterloo.ca
 
